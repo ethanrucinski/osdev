@@ -1,0 +1,7 @@
+binutils-2.37/*
+build-binutils/*
+build-gcc/*
+gcc-11.2.0/*
+isodir/*
+*.o
+*.iso
